@@ -22,7 +22,7 @@ SELECT calcular_puntuacion_promedio ('10', '9', '6', '7') AS promedio;
 
 DELIMITER ;
 
--- FUNCIO 2
+-- FUNCION 2
 
 USE eventos;
 DROP function IF EXISTS `horas_trabajadas`;
